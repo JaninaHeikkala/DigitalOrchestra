@@ -13,5 +13,9 @@ an application developed for my master's thesis *(diplomarbete, diplomityö)*
 > `cd src`
 
 > `python digital-orchestra.py`
- 
+
+Demo video: 
+
+https://github.com/user-attachments/assets/e3012da8-f064-4e17-9ee1-5661b1d6967b
+
 Thesis: https://www.doria.fi/handle/10024/194171
